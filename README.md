@@ -1,4 +1,4 @@
-# Demo 2
+# cs100 personal repo
 Here will be my cpp files for the cs100 class. 
 yes yes yes strong woman. bear. 
 
