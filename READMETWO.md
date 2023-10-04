@@ -1,7 +1,6 @@
 # Demo 2
-
-this is my second readme hehe
-look at all the changes i can do sheeeeeshh
+Here will be my cpp files for the cs100 class. 
+yes yes yes strong woman. 
 
 ascii art wow 
 
