@@ -1,4 +1,7 @@
 # Demo 2
+Here will be my cpp files for the cs100 class. 
+yes yes yes strong woman. bear. 
 
-some text wow poggers
-this sentence was added with my msi
+ʕ •ᴥ• ʔ	
+[     ]
+  | |
